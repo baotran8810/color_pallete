@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/f6galaxy/Desktop/color_pallete/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/f6galaxy/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/f6galaxy/Desktop/color_pallete/android/app/.cxx/Debug/5r41e5k1/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/f6galaxy/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/f6galaxy/Desktop/color_pallete/android/app/.cxx/Debug/5r41e5k1/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "convertImage::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "convertImage",
+      "output": "/Users/f6galaxy/Desktop/color_pallete/build/app/intermediates/cxx/Debug/5r41e5k1/obj/x86/libconvertImage.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/f6galaxy/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/f6galaxy/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

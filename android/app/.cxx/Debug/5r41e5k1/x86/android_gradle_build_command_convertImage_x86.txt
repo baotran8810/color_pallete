@@ -1,0 +1,7 @@
+Executable : /Users/f6galaxy/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/f6galaxy/Desktop/color_pallete/android/app/.cxx/Debug/5r41e5k1/x86
+convertImage
+jvmArgs : 
+

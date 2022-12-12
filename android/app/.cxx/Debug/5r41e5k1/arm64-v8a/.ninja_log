@@ -1,0 +1,5 @@
+# ninja log v5
+0	84	1670575947	CMakeFiles/convertImage.dir/Users/f6galaxy/Desktop/color_pallete/ios/Classes/converter.c.o	f35e8c16ae25841c
+84	142	1670575947	/Users/f6galaxy/Desktop/color_pallete/build/app/intermediates/cxx/Debug/5r41e5k1/obj/arm64-v8a/libconvertImage.so	8c7c32b630b9fccc
+1	249	1670577652	/Users/f6galaxy/Desktop/color_pallete/build/app/intermediates/cxx/Debug/5r41e5k1/obj/arm64-v8a/libconvertImage.so	8c7c32b630b9fccc
+1	242	1670597320	/Users/f6galaxy/Desktop/color_pallete/build/app/intermediates/cxx/Debug/5r41e5k1/obj/arm64-v8a/libconvertImage.so	8c7c32b630b9fccc
