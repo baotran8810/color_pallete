@@ -55,31 +55,10 @@ class _MyAppState extends State<MyApp> {
       default:
         return MaterialPageRoute(
           settings: RouteSettings(name: settings.name),
-          builder: (_) => const HomeScreen(),
+          builder: (_) => const MainScreen(),
         );
 
       // throw Exception("Route is not defined");
     }
-  }
-}
-
-class HomeScreen extends StatefulWidget {
-  const HomeScreen({super.key});
-
-  @override
-  State<HomeScreen> createState() => _HomeScreenState();
-}
-
-class _HomeScreenState extends State<HomeScreen> {
-  @override
-  void initState() {
-    super.initState();
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    return const Scaffold(
-      body: MainScreen(),
-    );
   }
 }
